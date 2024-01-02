@@ -1,0 +1,17 @@
+export { default as Home } from "./Home/Home";
+export { default as Profile } from "./Profile/Profile";
+export { default as EditProfile } from "./Profile/EditProfile";
+export { default as Login } from "./Login/Login";
+export { default as Register } from "./Register/Register";
+export { default as CarDetails } from "./CarDetails/CarDetails";
+export { default as Cars } from "./Cars/Cars";
+export { default as AddCar } from "./Cars/AddCar";
+export { default as Requests } from "./Requests/Requests";
+export { default as Services } from "./Services/Services";
+export { default as Help } from "./Help/Help";
+export { default as Support } from "./Support/Support";
+export { default as MyCars } from "./Cars/MyCars";
+export { default as UpdateCar } from "./Cars/UpdateCar";
+export { default as Tc } from "./Tc/Tc";
+export { default as ForgetPassword } from "./ForgetPassword/ForgetPassword";
+export { default as SafetyInfo } from "./SafetyInfo/SafetyInfo";
